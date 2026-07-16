@@ -1,7 +1,5 @@
 # Aditya's Agent Skills
 
-Aditya's [Agent Skills](https://agentskills.io/) maintained by [Aditya Vinodh](https://github.com/aditya-vinodh).
-
 ## Install
 
 ```bash
